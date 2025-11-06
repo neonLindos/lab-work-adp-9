@@ -44,3 +44,4 @@ void TestTask2()
 
 
 TestTask1();
+TestTask2();
